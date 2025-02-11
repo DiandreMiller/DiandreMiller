@@ -13,15 +13,14 @@ Hey! I'm **Diandre Miller**, a software engineer passionate about building innov
 
 ---
 
-## 🤯 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/DiandreMiller?theme=dark&ext=activity)](https://leetcode.com/DiandreMiller/)
-
-
 ## 🔥 GitHub Stats  
 
 🏆 **Achievements & Contributions**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=DiandreMiller&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+
+## 🤯 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DiandreMiller?theme=dark&ext=activity)](https://leetcode.com/DiandreMiller/)
 
 📊 **Top Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiandreMiller&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
