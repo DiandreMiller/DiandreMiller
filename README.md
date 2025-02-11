@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 
-Hey! I'm **Diandre Miller**, a software engineer passionate about building innovative solutions that make life easier. I love working on projects that blend **finance, technology, and AI** to create smarter tools for users. When I'm not coding, you'll find me **listening to music**, **working out**, or **coaching**—because balance is key!  
+Hey! I'm **Diandre Miller**, a software engineer passionate about building innovative solutions that make life easier. I love working on projects that blend **finance, technology, and AI** to create smarter tools for users. When I'm not coding, you'll find me **listening to music**, **working out**, **coaching** or spending time with my family and girlfriend—because balance is key!  
 
 💡 Currently, I'm developing [**WealthWise Financial Planner**](https://wealthwisefinancialplanner.netlify.app/), a financial planning app that provides insights on **investment strategies based on disposable income**.  
 
