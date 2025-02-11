@@ -13,6 +13,11 @@ Hey! I'm **Diandre Miller**, a software engineer passionate about building innov
 
 ---
 
+## LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DiandreMiller?theme=dark&ext=activity)](https://leetcode.com/DiandreMiller/)
+
+
 ## 🔥 GitHub Stats  
 
 🏆 **Achievements & Contributions**  
