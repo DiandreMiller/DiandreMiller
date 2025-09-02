@@ -9,7 +9,7 @@ Hey! I'm **Diandre Miller**, a software engineer passionate about building innov
 
 💡 Currently, I'm developing [**WealthWise Financial Planner**](https://wealthwisefinancialplanner.netlify.app/), a financial planning app that provides insights on **investment strategies based on disposable income**.  
 
-💻 **Portfolio site coming soon!** Stay tuned for updates! 🚀  
+💻 **Portfolio site coming soon:** [**DreDev**](https://diandremillerdev.netlify.app/)
 
 ---
 
