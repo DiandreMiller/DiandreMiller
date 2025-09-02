@@ -58,7 +58,7 @@ Hey! I'm **Diandre Miller**, a software engineer passionate about building innov
 ## 📫 Let's Connect!  
 
 📩 **Email:** millerdiandre@gmail.com  
-🌐 **Portfolio:** _Coming soon_  
+🌐 **Portfolio:** [DreDev](https://diandremillerdev.netlify.app/)
 📌 **Project:** [WealthWise Financial Planner](https://wealthwisefinancialplanner.netlify.app/)  
 
 Let's build something amazing together! 🚀🔥  
