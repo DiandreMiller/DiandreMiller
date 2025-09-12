@@ -1,6 +1,6 @@
 # Hi there, I'm Diandre Miller! 👋  
 
-🚀 **Software Engineer | Problem Solver | Coach**  
+🚀 **Software Engineer | Problem Solver | Javascript Instructor**  
 🎧 **Music Lover | 💪 Fitness Enthusiast | 🏀 Coach**  
 
 ## 🌟 About Me  
